@@ -1,2 +1,1 @@
-### Hi there 👋,
-I'm Enrico, an IT professional 💻🔧
+### Hi there 👋, I'm Enrico, an IT professional 💻🔧

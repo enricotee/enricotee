@@ -1,4 +1,4 @@
-<h1>Hi, I'm Enrico, an <a href="https://linkedin.com/in/enrico-t671">IT Professional💻🔧</a>☺</h1>
+<h1>Hi, I'm Enrico, an <a href="https://linkedin.com/in/t-enrico/">IT Professional💻🔧</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -14,4 +14,4 @@
 
 
 
-[linkedin]: https://linkedin.com/in/enrico-t671
+[linkedin]: https://linkedin.com/in/t-enrico/
